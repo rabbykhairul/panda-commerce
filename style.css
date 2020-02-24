@@ -25,3 +25,28 @@
 .container{
     margin-bottom: 100px;
 }
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.cat-watch, .cat-bag, .cat-shoes{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+
+.cat-watch{
+    background-color: orange;
+}
+
+.cat-bag{
+    background-color: orchid;
+}
+
+.cat-shoes{
+    background-color: blue;
+}
