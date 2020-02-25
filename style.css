@@ -18,7 +18,7 @@
     padding: 9px 25px;
 }
 
-.carousel{
+.carousel, #subscribe{
     border-radius: 10px;
 }
 
@@ -64,4 +64,8 @@
 
 .card-footer:last-child{
     border-radius: 10px;
+}
+
+#subscribe{
+    height: 300px;
 }
