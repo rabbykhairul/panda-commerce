@@ -56,3 +56,12 @@
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgrey;
 }
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+.card-footer:last-child{
+    border-radius: 10px;
+}
